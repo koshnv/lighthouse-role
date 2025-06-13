@@ -1,4 +1,4 @@
-Role Name
+Role lighthouse
 =========
 
 Роль для установки lighthouse.
